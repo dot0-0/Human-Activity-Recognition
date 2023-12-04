@@ -24,6 +24,10 @@ To capture bidirectional information, an LSTM network with 128 hidden sizes and 
 
 During training, the model is trained for 50 epochs using a learning rate of 0.0025 and a batch size of 64. The Adam optimizer is utilized for optimizing the model's learning rate.
 
+<p align="center">
+<img src="https://github.com/dot0-0/Human-Activity-Recognition/blob/main/HAR_NN.png" alt="CNN-LSTM" width="300"> <img src="https://github.com/dot0-0/Human-Activity-Recognition/blob/main/HAR_NN_Att.png" alt="CNN-LSTM-Att" height="403.8">
+</p>
+
 ## Results
 #### Without Attention
 Accuracy: 91.65%
@@ -41,5 +45,5 @@ Pytorch
 
 ## References
 
-[https://github.com/jindongwang/Deep-learning-activity-recognition.git](https://github.com/jindongwang/Deep-learning-activity-recognition.git)
+[https://github.com/jindongwang/Deep-learning-activity-recognition.git](https://github.com/jindongwang/Deep-learning-activity-recognition.git) 
 
