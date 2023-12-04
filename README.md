@@ -3,7 +3,7 @@
 ## Table of Contents
 - [About](#about)
 - [Dataset](#dataset)
-- [Network Architecture](#network_architecture)
+- [Network Architecture](#network-architecture)
 - [Results](#results)
 - [Requirements](#requirements)
 
@@ -38,3 +38,8 @@ F1 Scores: 0.87
 Python 3.9
 
 Pytorch 
+
+## References
+
+[https://github.com/jindongwang/Deep-learning-activity-recognition.git](https://github.com/jindongwang/Deep-learning-activity-recognition.git)
+
